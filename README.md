@@ -109,6 +109,8 @@ An end-to-end application integrating X-ray classification, fracture detection, 
 - Rebuilt dataset splits using perceptual hashing and patient-level grouping.
 - Achieved ROC-AUC scores of 0.93 and 0.98 on held-out test sets.
 
+🔗 [Live Demo](https://marosalah02.github.io/X-CV/) · [Source Code](https://github.com/MaroSalah02/X-CV)
+
 ### 🌐 Code-Switched Arabic QA RAG System
 **NLP · Retrieval-Augmented Generation · Vector Search**
 
@@ -118,7 +120,7 @@ A question-answering system built for complex transcripts mixing Egyptian Arabic
 - Integrated ChromaDB for contextual retrieval.
 - Built a pipeline for answering questions about unstructured conversations.
 
----
+🔗 [Source Code](https://github.com/seif495/arabic-nlp-qa-rag)
 
 ## 💼 Experience Highlights
 
