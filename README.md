@@ -6,9 +6,10 @@
 
 *Building intelligent systems by combining machine learning, LLMs, and practical software engineering.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-moheb-392198220/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://seif-moheb-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-seif495-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seif495)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-moheb-392198220/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF8000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seif-moheb-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seif495)
+
 
 </div>
 
@@ -96,7 +97,7 @@ An AI-powered Fantasy Premier League assistant combining a Neo4j knowledge graph
 - Automated data ingestion, prediction generation, and guarded retraining.
 - Docker deployment, Azure hosting, GitHub Actions CI/CD, and 200+ automated tests.
 
-🔗 [Live Demo](https://acl-m3.vercel.app/) · [Source Code](https://github.com/seif495)
+🔗 [Live Demo](https://pitchme.polandcentral.cloudapp.azure.com/) · [Source Code](https://github.com/youssef20031/ACL_M3)
 
 ### 🩻 X-CV: X-Ray Computer Vision Pipeline
 **Deep Learning · Object Detection · Computer Vision**
